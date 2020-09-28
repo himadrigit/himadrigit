@@ -16,7 +16,7 @@
 <br/>
 
 - 🔭 I’m currently building **Project** in **C and Python**
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Embedded System and VLSI**
 - 👯 I’m looking to collaborate projects involving **C and Python**
 - 💬 I would like to discuss about **Data Strcucture and Web Development**
 - 📫 How to reach me:  hbhattacharya3@gmail.com 
