@@ -17,8 +17,8 @@
 
 - 🔭 I’m currently working on **Various Projects** in **C and Python**
 - 🌱 I’m currently learning **Embedded System and VLSI**
-- 👯 I’m looking to collaborate projects involving **C and Python**
-- 💬 I would like to discuss about **Data Strcucture and Web Development**
+- 👯 I’m looking to collaborate in projects involving **C , Python and Embedded Systems**
+- 💬 I would like to discuss about **Data Strcucture**
 - 📫 How to reach me:  hbhattacharya3@gmail.com 
 - 😄 Pronouns: He/His
 
