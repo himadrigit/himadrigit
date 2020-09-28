@@ -7,13 +7,16 @@
 <a href="https://github.com/himadrigit">
   <img align="left" alt="Himadri's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://www.instagram.com/himadribh_/">
+  <img align="left" alt="Himadri's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 
 <br/>
 <br/>
 
-- 🔭 I’m currently building **Projects** in **C and Python**
-- 🌱 I’m currently learning **HTML and CSS**
+- 🔭 I’m currently building **Project** in **C and Python**
+- 🌱 I’m currently learning **Java Script**
 - 👯 I’m looking to collaborate projects involving **C and Python**
 - 💬 I would like to discuss about **Data Strcucture and Web Development**
 - 📫 How to reach me:  hbhattacharya3@gmail.com 
