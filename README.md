@@ -1,5 +1,5 @@
 ### Hi there, I'm Himadri👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshugit&label=Views&color=blue&style=plastic" alt="himadrigit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himadrigit&label=Views&color=blue&style=plastic" alt="himadrigit" /> </p>
 
 <a href="https://linkedin.com/in/himadribhattacharya3/">
   <img align="left" alt="Divyanshu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
