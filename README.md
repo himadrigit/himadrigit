@@ -19,6 +19,6 @@
 - 🌱 I’m currently learning about **Embedded Systems and VLSI**
 - 👯 I’m looking to collaborate in projects involving **C , Python and Embedded Systems**
 - 💬 I would like to discuss about **Data Structures**
-- 📫 How to reach me:  hbhattacharya3@gmail.com 
+- 📫 How to reach me:  [Linkedin](https://linkedin.com/in/himadribhattacharya3/) , [Gmail](hbhattacharya3@gmail.com) , [Instagram](https:/www.instagram.com/himadribh_/)
 - 😄 Pronouns: He/His
 
